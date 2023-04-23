@@ -3,7 +3,7 @@
 </div>
 
 My name is **Jean**.\
-I'm **I’m graduated as informatics engineering**.
+I'm **graduated as informatics engineering**.
 <!--I'm **I’m graduated as informatics engineering** at Politeknik Caltex Riau.\-->
 🌱 I’m currently learning about Kotlin and Flutter dart for **Mobile App Developer**.\
 💬 Ask me on [Linkedin](https://www.linkedin.com/in/jean-n-el/)
