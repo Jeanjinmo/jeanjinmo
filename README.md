@@ -15,7 +15,7 @@ src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></a>
 <br>
 
 ### 📈 GitHub Stats
-<p align="left">
+<p align="center">
 <a href=(https://github.com/Jeanjinmo)>
   <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jeanjinmo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jeanjinmo&layout=compact&langs_count=8&theme=algolia"/>
