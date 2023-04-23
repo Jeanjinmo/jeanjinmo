@@ -1,4 +1,13 @@
-### Hi there 👋
+<div align = center>
+<h3>Hi there 👋</h3>
+</div>
+
+My name is **Jean**.\
+I'm **Fresh Graduate**.\
+🌱 I’m currently learning **Mobile App Developer**. (Native with **Kotlin** and Multiplatform with **Flutter**).\
+💬 Ask me on [Linkedin](https://www.linkedin.com/in/jean-n-el/)
+
+
 
 <!--
 **Jeanjinmo/jeanjinmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
